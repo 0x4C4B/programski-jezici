@@ -1,4 +1,4 @@
-# Primprema za Kolokvijum 1
+# Priprema za Kolokvijum 1
 
 Na programskom jeziku Java projektovati simulator vokalno-instrumentalnog sastava u žanru punk. Sastav se sastoji
 iz pevača, gitariste, basiste i bubnjara. Svaki od ovih muzičara modelovati istoimenom klasom. Klase u svojim
