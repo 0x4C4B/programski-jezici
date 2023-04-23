@@ -1,3 +1,5 @@
+package punk;
+
 public class Bubnjar extends Muzicar {
     int telesnaMasa;
     long kolicinaAlkohola;

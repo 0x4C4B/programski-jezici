@@ -9,12 +9,12 @@ karakteriše telesna masa (int) i količina alkoholnih napitaka neophodnih za is
 Svi muzičari dele istu natklasu Muzičar koja vodi računa o broju godina članstva tog muzičara u bendu. Sve klase osim
 glavne treba da budu u paketu punk.
 
-Za evidenciju vokalno-instrumentalnog sastava predvideti klasu PunkBand koja ima ulogu
+Za evidenciju vokalno-instrumentalnog sastava predvideti klasu punk.PunkBand koja ima ulogu
 kolekcije muzičara. Muzičare čuvati listi tipa ArrayList sa odgovarajućom parametrizacijom. Za
 ubacivanje muzičara u bend koristiti funkciju evidentiraj(Muzičar mu) koja izbacuje izuzetak
 tipa Antimaterija u slučaju da je broj godina članstva muzičara u bendu negativan, a prilikom
 testiranja programa izazvati jednu pojavu ovog izuzetka. Izuzetak treba da bude obrađen u
-samoj funkciji, a taj muzičar neće biti evidentiran. Klasa PunkBand treba da ima i funkciju
+samoj funkciji, a taj muzičar neće biti evidentiran. Klasa punk.PunkBand treba da ima i funkciju
 vođaBenda() koja na ekran ispisuje sve osobine člana benda sa najdužim stažom, a njegov staž
 upisuje u binarnu datoteku čije ime je broj indeksa a ekstenzija bin. Pronalaženje vođe benda
 treba realizovati sortiranjem liste muzičara pomoću fabričke funkcije sort(null). Da bi muzičari

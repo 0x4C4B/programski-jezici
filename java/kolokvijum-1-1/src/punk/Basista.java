@@ -1,7 +1,9 @@
+package punk;
+
 public class Basista extends Muzicar {
     byte brojTonova;
 
-    Basista(int brojGodina, byte brojTonova) {
+    public Basista(int brojGodina, byte brojTonova) {
         super(brojGodina);
         this.brojTonova = brojTonova;
     }

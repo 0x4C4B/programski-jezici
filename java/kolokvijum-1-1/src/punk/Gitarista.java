@@ -1,3 +1,5 @@
+package punk;
+
 public class Gitarista extends Muzicar {
     int faktorSujete;
     int koeficijentEkspresije;

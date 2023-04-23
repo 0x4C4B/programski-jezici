@@ -1,3 +1,5 @@
+package punk;
+
 public abstract class Muzicar implements Comparable<Muzicar> {
     private int brojGodina;
 

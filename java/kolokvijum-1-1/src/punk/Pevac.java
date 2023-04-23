@@ -1,3 +1,5 @@
+package punk;
+
 public class Pevac extends Muzicar {
     int rasponGlasa;
     int koeficijentAktivnosti;
